@@ -1,8 +1,6 @@
 <h1 align="left">Hello 👋</h1>
 <h2 align="left">Welcome, to not so perfect "github profile"!</h2>
-<h4 align="left>Rajasthan Police Hackathon 1.0 Winner | Freelancer | Canva Designer | IIT Guwahati"</h4>
-
-###
+<h4 align="left">Rajasthan Police Hackathon 1.0 Winner | Freelancer | Canva Designer | IIT Guwahati</h4>
 
 <h2 align="left">About me</h2>
 
