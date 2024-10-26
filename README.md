@@ -1,4 +1,5 @@
-<h1 align="left">Hello 👋 <br><span><h2>Welcome, to not so perfect "github profile"!</h2></span></h1>
+<h1 align="left">Hello 👋</h1>
+<h2 align="left">Welcome, to not so perfect "github profile"!</h2>
 <h4 align="left>Rajasthan Police Hackathon 1.0 Winner | Freelancer | Canva Designer | IIT Guwahati"</h4>
 
 ###
@@ -33,7 +34,7 @@
 
 ###
 
-<h2 align="left">Below are few was to get to knwo more about me...</h2>
+<h2 align="left">Below are few was to get to know more about me...</h2>
 
 ###
 
@@ -49,10 +50,10 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishb369&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishb369&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=nishb369&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishb369&radius=16&theme=github-dark&area=true&order=5" height="200" alt="activity-graph graph"  />
+  <div><img src="https://github-readme-stats.vercel.app/api?username=nishb369&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  /></div>
+  <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishb369&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  /></div>
+  <div><img src="https://streak-stats.demolab.com?user=nishb369&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  /></div>
+  <div><img src="https://github-readme-activity-graph.vercel.app/graph?username=nishb369&radius=16&theme=github-dark&area=true&order=5" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
