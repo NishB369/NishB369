@@ -2,11 +2,13 @@
 <h2 align="left">Welcome, to not so perfect "github profile"!</h2>
 <h4 align="left">Rajasthan Police Hackathon 1.0 Winner | Freelancer | Canva Designer | IIT Guwahati</h4>
 
+###
+
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨Got to know about filling these green square boxes in Oct 23' ...<br>📚 Currently trying to fill them with Frontend Code Commits ...<br>🎯 Then aiming to turn these green squares into green flags from users(from the future)</p>
+<p align="left">✨ Got to know about filling these green square boxes in Oct 23' ...<br>📚 Currently trying to fill them with Frontend Code Commits ...<br>🎯 Then aiming to turn these green squares into green flags from users(from the future)</p>
 
 ###
 
