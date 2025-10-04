@@ -48,27 +48,6 @@ I specialize in building **responsive, interactive web applications** with **Rea
 
 ---
 
-## 🏆 Featured Projects
-
-### 🔐 [**CryptoSentinel**](https://github.com/NishB369/CryptoSentinel)
-> Real-time crypto dashboard with **AI sentiment analysis**  
-- Built with **React, Tailwind, Express.js, Ollama**  
-- Processes **5+ cryptocurrencies**; cuts market analysis time by manifolds  
-- AI model achieves **85% accuracy** in sentiment prediction  
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/NishB369/CryptoSentinel)
-[![Demo](https://img.shields.io/badge/Demo-Google_Drive-00D4FF?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1j5sUnGJvmYwgn_abXJ1iU8zTLpb1Jfa5/view?usp=sharing)
-
-### 💰 [**Ctrlify**](https://ctrlify-landing-page.vercel.app/)
-> Personal finance app for transaction tracking & clarity  
-- **React + Tailwind** with intuitive user flows  
-- **Attainend 50% Based 1 User satisfaction** on financial visibility  
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/NishB369/ctrlify)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00D4FF?style=for-the-badge&logo=vercel)](https://ctrlify-landing-page.vercel.app/)
-
----
-
 ## 🌟 Experience Highlights
 
 ### 💼 **Frontend Tech Intern @ Physics Wallah**
@@ -102,7 +81,7 @@ I specialize in building **responsive, interactive web applications** with **Rea
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nishchaybhatia.vercel.app-00D4FF?style=for-the-badge&logo=vercel)](https://nishchaybhatia.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishchay_Bhatia-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishchay-bhatia/)
-[![Email](https://img.shields.io/badge/Email-nishb303@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:nishb303@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nishb303@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:nishbcodes@gmail.com)
 
 </div>
 
