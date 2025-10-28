@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-**Frontend Developer** with **9 months of professional experience** as a **Tech Intern at Physics Wallah** (HQ Noida & Bangalore Office). Currently a **3rd-year BSc Data Science & AI student at IIT Guwahati** (CGPA: 7.5).
+**Frontend Developer** with **10 months of professional experience** as a **Tech Intern at Physics Wallah** (HQ Noida & Bangalore Office). Currently a **3rd-year BSc Data Science & AI student at IIT Guwahati** (CGPA: 7.5).
 
 I specialize in building **responsive, interactive web applications** with **React.js, Tailwind CSS, and Redux**, and have shipped **40+ dashboards** used by Students, Teachers, and Admins. I thrive in cross-functional teams and excel at turning raw business needs into intuitive UI—**even without Figma or PRDs**.
 
